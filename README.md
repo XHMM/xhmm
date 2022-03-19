@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi guys 👋
+
+I focused on web and mobile.
+
+Languages I used are JS/TS and Swift(UI).
+
+Currently:
+- 👨‍💻‍ Wokring on my side-projects using react-native
+- 🌱 Maintain rn modules that I used
 
 <!--
 **XHMM/xhmm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
